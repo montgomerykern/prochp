@@ -1,0 +1,17 @@
+name                      : ShopCraft
+version                   : 11.0.0
+author                    : Montgomery James Kern
+
+// Hidden super admin in the form username:password
+admin-superadmin          : mkern:admin
+admin-cookie              : __admin
+
+// Enables real-time visitor tracking
+admin-tracking            : true
+
+// Image convertor for resizing of pictures
+// Default image converter: im = ImageMagick, gm = GraphicsMagick
+default-image-converter   : gm
+
+// Default theme
+default-theme             : default
