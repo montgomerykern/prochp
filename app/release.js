@@ -7,7 +7,7 @@
 const options = {};
 
 // options.ip = '127.0.0.1';
-//options.port = parseInt("9696");
+   options.port = process.env.PORT || 80;
 // options.config = { name: 'Total.js' };
 // options.sleep = 3000;
 
