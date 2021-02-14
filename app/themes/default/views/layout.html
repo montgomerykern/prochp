@@ -20,9 +20,8 @@
 	<div data-jc="shoppingcart" data-jc-path="shoppingcart" data-jc-config="discount:@{if user}@{user.discount}@{else}0@{fi}"></div>
 	<div data-jc="message" data-jc-config="button:@(Close)"></div>
 	<div data-jc="autocomplete"></div>
-
 	<div class="container">
-
+		<br />
 		<div class="relative">
 			<div class="account">
 				@{if user}
@@ -33,7 +32,7 @@
 					<a href="@{sitemap_url('account')}"><i class="fa fa-lock"></i>@(Sign in)</a>
 				@{fi}
 			</div>
-		</div
+		</div>
 
 		<div class="row">
 			<div class="col-md-3">
@@ -114,25 +113,29 @@
 	<footer>
 		<div class="container">
 			<div class="row">
+				
 				<div class="col-sm-6 col-md-3 item">
-					<h3>Services</h3>
+					<h3>Quick Links:</h3>
 					<ul>
-						<li><a href="#">Web design</a></li>
-						<li><a href="#">Development</a></li>
-						<li><a href="#">Hosting</a></li>
+						<li><a href="#">Fresh Water Data Sets</a></li>
+						<li><a href="#">Salt Water Data Sets</a></li>
+						<li><a href="#">Traditional Charts</a></li>
+						<li><a href="#">Frequently Asked Questions</a></li>
+						
 					</ul>
 				</div>
 				<div class="col-sm-6 col-md-3 item">
-					<h3>About</h3>
+					<h3>About Us:</h3>
 					<ul>
-						<li><a href="#">Company</a></li>
-						<li><a href="#">Team</a></li>
-						<li><a href="#">Careers</a></li>
+						<li><a href="#">Our Company</a></li>
+						<li><a href="#">Our Team</a></li>
+						<li><a href="#">Data Miners</a></li>
+						<li><a href="#">Contacting Us</a></li>
 					</ul>
 				</div>
-				<div class="col-md-6 item text">
-					<h3>ProFinder Charts</h3>
-					<p>
+				<div class="col-md-3 item text">
+					<h3>Contact Info:</h3>
+					<p> ProFinder Charts</br>
 						Phone: 910-512-6700<br>
 						1825 Pharview Drive<br>
 						Ocean Isle Beach, North Carolina 28469</p>
