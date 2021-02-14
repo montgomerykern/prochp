@@ -2,7 +2,7 @@
 // FOR PRODUCTION
 // ProFinder Charts - framework for Node.js platform
 // https://www.ProFinderCharts.com
-// https://www.ProChipUSA.com
+// https://www.prochipusa.com
 // ===================================================
 
 const options = {};
