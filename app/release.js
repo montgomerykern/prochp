@@ -1,7 +1,8 @@
 // ===================================================
 // FOR PRODUCTION
-// Total.js - framework for Node.js platform
-// https://www.totaljs.com
+// ProFinder Charts - framework for Node.js platform
+// https://www.ProFinderCharts.com
+// https://www.ProChipUSA.com
 // ===================================================
 
 const options = {};
