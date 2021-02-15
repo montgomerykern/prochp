@@ -1,7 +1,7 @@
 // ===================================================
 // FOR DEVELOPMENT
-// Total.js - framework for Node.js platform
-// https://www.totaljs.com
+// ProFinder Charts
+// https://www.profindercharts.com
 // ===================================================
 
 const options = {};
